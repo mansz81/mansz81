@@ -24,7 +24,7 @@
 ## Install
 
 ```sh
-TRIBUTING.md
+npm install
 ```
 
 ## Usage
