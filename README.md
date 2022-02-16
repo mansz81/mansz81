@@ -19,7 +19,7 @@
 
 ### 🏠 [Homepage](https://mansz81.github.io/)
 
-### ✨ [Demo](https://mansz81.github.io/mansz81)
+### ✨ [Demo](https://mansz81.github.io/osx)
 
 ## Install
 
