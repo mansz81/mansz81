@@ -23,7 +23,7 @@
 
 ## Install
 
-You can also [fork](https://github.com/kefranabg/readme-md-generator) & take a look at the [Installation guide](https://github.com/kefranabg/readme-md-generator/blob/master/INSTALL.md)
+You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or take a look at the [Installation guide](https://github.com/kefranabg/readme-md-generator/blob/master/INSTALL.md)
 
 ## Author
 
