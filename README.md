@@ -23,21 +23,7 @@
 
 ## Install
 
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
+You can also fork & take a look at the [Installation guide](https://github.com/kefranabg/readme-md-generator/blob/master/INSTALL.md)
 
 ## Author
 
@@ -50,7 +36,7 @@ npm run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CON).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
