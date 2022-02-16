@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to mansz81 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/mansz81/mansz81" target="_blank">
+  <a href="https://mansz81.github.io/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
@@ -17,9 +17,9 @@
 
 > CLI that generates beautiful README.md files.
 
-### 🏠 [Homepage](https://github.com/mansz81/mansz81)
+### 🏠 [Homepage](https://mansz81.github.io/)
 
-### ✨ [Demo](https://github.com/mansz81/mansz81)
+### ✨ [Demo](https://mansz81.github.io/mansz81)
 
 ## Install
 
@@ -43,7 +43,7 @@ npm run test
 
 👤 **mansz81**
 
-* Website: https://github.com/oneplus-x
+* Website: [Organization](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@mansz81](https://github.com/mansz81)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
