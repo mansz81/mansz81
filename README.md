@@ -29,7 +29,7 @@ You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or ta
 
 👤 **mansz81**
 
-* Website: [Organization](https://github.com/oneplus-x)
+* Website: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@mansz81](https://github.com/mansz81)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
