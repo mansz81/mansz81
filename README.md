@@ -17,9 +17,9 @@
 
 > CLI that generates beautiful README.md files.
 
-### 🏠 [Homepage](https://mansz81.github.io/)
+### 🏠 [Homepage](https://readloud.github.io/)
 
-### ✨ [Demo](https://mansz81.github.io/osx)
+### ✨ [Demo](https://readloud.github.io/osx)
 
 ## Install
 
@@ -27,11 +27,11 @@ You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or ta
 
 ## Author
 
-👤 **mansz81**
+👤 **READ LOUD**
 
 * Website: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
-* Github: [@mansz81](https://github.com/mansz81)
+* Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
 
 ## 🤝 Contributing
