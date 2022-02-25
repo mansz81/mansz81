@@ -29,9 +29,6 @@
 GetX State Management with Flutter | GetBuilder, GetX and Obx<br>
 https://youtu.be/-FAiH638BHo
 
- If you like my work, support me to create more! 😎👍<br>
-<a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
-
 ### 🏠 [Homepage](https://readloud.github.io/)
 
 ### ✨ [Demo](https://readloud.github.io/osx)
@@ -71,8 +68,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 <a href="https://www.patreon.com/mansz81">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"  height="20px"  width="160" alt="patreon">
 </a>
+
+If you like my work, support me to create more! 😎👍<br>
+<a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20px"  width="160"  alt="Buy Me A Coffee"></a>
 
 ## 📝 License
 
