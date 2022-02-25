@@ -17,9 +17,8 @@
     <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
 </p>
 
-> [**Tutorial**](https://youtu.be/-FAiH638BHo) 👇🏼👇🏼👇🏼<br>
-  <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />
-
+> [**Tutorial**](https://youtu.be/-FAiH638BHo) 👇🏼👇🏼👇🏼 <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color /><br>
+  
 <p align="center">
   <img src="getx_state.png" alt="getx state management" title="Screenshot">
 </p>
