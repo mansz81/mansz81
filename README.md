@@ -29,6 +29,8 @@
 
 ### ✨ [Demo](https://readloud.github.io/osx)
 
+### <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />[**Tutorial**](https://youtu.be/-FAiH638BHo) 👇🏼👇🏼👇🏼<br>
+
 ## Getting Started
 
 This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials,
@@ -38,9 +40,6 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-<img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
-https://youtu.be/-FAiH638BHo
 
 ## Install
 
