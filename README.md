@@ -26,6 +26,7 @@ This project is a starting point for [online documentation](https://flutter.dev/
 </a>
 </p>
 <br>
+</br>
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
