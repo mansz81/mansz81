@@ -43,7 +43,7 @@ A few resources to get you started if this is your first Flutter project:
 
 **READ LOUD**
 
-* Website: [oneplus-x](https://github.com/oneplus-x)
+* Organization: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
