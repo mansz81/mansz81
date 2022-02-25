@@ -13,39 +13,17 @@
 <a href="https://twitter.com/mansz81" target="_blank">
 <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
 </a>
-<a href="https://instagram.com/readloud" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-</a>
 <a href="https://github.com/readloud" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
 </a>
-<a href="https://discord.readloud.com" target="_blank">
-<img alt="Discord" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
-</a>
 <a href="https://discord.com/invite/nWFnTqP" target="_blank">
 <img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
-</a>
-<a href="https://steamcommunity.com/id/readloud/" target="_blank">
-<img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
-</a>
-<a href="https://open.spotify.com/user/hlddjuzm3oqpw8e52sejmi5g1?si=VPFboXWyQNCd-q7orw0_5w" target="_blank">
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
-</a>
-<a href="https://twitch.tv/readloud" target="_blank">
-<img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> 
-</a>
-<a href="https://www.snapchat.com/add/readloud" target="_blank">
-<img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/> 
-</a>
-<a href="https://www.tiktok.com/@readloud" target="_blank">
-<img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> 
 </a>
 <a href="https://www.paypal.me/readloud" target="_blank">
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/> 
 </a>
 </p>
-  
- <br>
+<br>
   
 <p align="center">
   <img src="getx_state.png" alt="getx state management" title="Screenshot">
