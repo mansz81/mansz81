@@ -37,9 +37,7 @@ This project is a starting point for [online documentation](https://flutter.dev/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 ---
 
-## 👤 Author
-
-**READ LOUD**
+## 👤 READ LOUD
 
 * Organization: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
