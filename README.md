@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 <p align="center">
-  <img src="getx_state.png" alt="getx state management" title="Screenshot">
+  <img src="https://github.com/readloud/readloud.github.io/raw/main/src/assets/img/favicon.png" alt="getx state management" title="Screenshot">
 </p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
