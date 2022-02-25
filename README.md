@@ -16,14 +16,31 @@
   <a href="https://discord.com/invite/nWFnTqP" target="_blank">
     <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
 </p>
-
-> [**Tutorial**](https://youtu.be/-FAiH638BHo) 👇🏼👇🏼👇🏼 <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color /><br>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/readloud)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.readloud.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/readloud/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hlddjuzm3oqpw8e52sejmi5g1?si=VPFboXWyQNCd-q7orw0_5w)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/readloud)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xreadloudx)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/loligott)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/readloud)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@readloud?)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/xreadloudx)
+> [**Tutorial**](https://youtu.be/-FAiH638BHo) 👇🏼👇🏼👇🏼 <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />
+  
+ <br>
   
 <p align="center">
   <img src="getx_state.png" alt="getx state management" title="Screenshot">
 </p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
+
+---
+![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical) <br/> <br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
+<br/>
+---
 
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
