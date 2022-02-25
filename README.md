@@ -31,16 +31,13 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 <img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
 https://youtu.be/-FAiH638BHo
@@ -49,9 +46,9 @@ https://youtu.be/-FAiH638BHo
 
 You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or take a look at the [Installation guide](https://github.com/kefranabg/readme-md-generator/blob/master/INSTALL.md)
 
-## Author
+## 👤 Author
 
-👤 **READ LOUD**
+**READ LOUD**
 
 * Website: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
@@ -62,7 +59,7 @@ You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or ta
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
-## Show your support
+## 🥰 Support
 
 Give a ⭐️ if this project helped you!
 
@@ -75,7 +72,7 @@ If you like my work, support me to create more! 😎👍<br>
 
 ## 📝 License
 
-Copyright © 2022 [mansz81](https://github.com/mansz81).<br />
+Copyright © 2022 [readloud](https://github.com/readloud).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ***
