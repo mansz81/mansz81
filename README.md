@@ -1,4 +1,11 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
+<p align="center">
+  <img src="getx_state.png" alt="getx state management" title="Screenshot">
+</p>
+
+![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
+
+---
 <p>
 <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000"/>
 <a href="https://mansz81.github.io/" target="_blank">
@@ -18,14 +25,6 @@
 </a>
 </p>
 <br>
-  
-<p align="center">
-  <img src="getx_state.png" alt="getx state management" title="Screenshot">
-</p>
-
-![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
-
----
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 <br/>
