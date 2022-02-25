@@ -67,7 +67,6 @@ Give a ⭐️ if this project helped you!<br>
 <br>
 If you like my work, support me to create more! 😎👍<br>
 <a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px"  width="80"  alt="Buy Me A Coffee"></a>
-<br>
 <a href="https://www.paypal.me/readloud" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="30px"  width="80" alt="PayPal"/> 
 </a>
 <br>
