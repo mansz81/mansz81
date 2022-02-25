@@ -2,19 +2,19 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://mansz81.github.io/" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/readloud/readloud/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/mansz81/mansz81" />
+  <img alt="License: MIT" src="https://img.shields.io/github/license/mansz81/mansz81" />
   </a>
   <a href="https://twitter.com/mansz81" target="_blank">
-    <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
+  <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
   </a>
   <a href="https://discord.com/invite/nWFnTqP" target="_blank">
-    <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
+  <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
 </p>
   
  <br>
