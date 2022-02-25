@@ -4,6 +4,15 @@
 </p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
+<br>
+
+### 🏠 [Homepage](https://readloud.github.io/)
+### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
+### ✨ [Demo](https://readloud.github.io/osx)
+
+## Getting Started
+
+This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on development, and a full reference.
 <p>
 <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000"/>
 <a href="https://mansz81.github.io/" target="_blank">
@@ -22,16 +31,6 @@
 <img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
 </a>
 </p>
-<br>
-
-### 🏠 [Homepage](https://readloud.github.io/)
-### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
-### ✨ [Demo](https://readloud.github.io/osx)
-
-## Getting Started
-
-This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on development, and a full reference.
-
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
