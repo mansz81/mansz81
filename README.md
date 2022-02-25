@@ -23,11 +23,13 @@
 </a>
 </p>
 <br>
+
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
-<br/>
+<br>
 ---
+
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
 ### ✨ [Demo](https://readloud.github.io/osx)
