@@ -25,10 +25,6 @@
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
 
-<img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
-GetX State Management with Flutter | GetBuilder, GetX and Obx<br>
-https://youtu.be/-FAiH638BHo
-
 ### 🏠 [Homepage](https://readloud.github.io/)
 
 ### ✨ [Demo](https://readloud.github.io/osx)
@@ -45,6 +41,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img align="left" alt="CodeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" color />**Tutorial** 👇🏼👇🏼👇🏼<br>
+https://youtu.be/-FAiH638BHo
 
 ## Install
 
