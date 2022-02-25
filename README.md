@@ -1,21 +1,4 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://mansz81.github.io/" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/readloud/readloud/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/mansz81/mansz81" />
-  </a>
-  <a href="https://twitter.com/mansz81" target="_blank">
-    <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
-  </a>
-  <a href="https://discord.com/invite/nWFnTqP" target="_blank">
-    <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
-</p>
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/readloud)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.readloud.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/readloud/)
@@ -37,7 +20,7 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
 
 ---
-![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical) <br/> <br/>
+![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 <br/>
 ---
