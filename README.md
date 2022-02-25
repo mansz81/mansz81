@@ -60,7 +60,7 @@ If you like my work, support me to create more! 😎👍<br>
 <a href="https://www.paypal.me/readloud" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="30px"  width="80" alt="PayPal"/> 
 </a>
 <br>
-You can also [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/readloud/readloud/blob/master/INSTALL.md)
+You can also [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/readloud/readloud/blob/master/INSTALL.md) for each repository.
 
 ## 📝 License
 
