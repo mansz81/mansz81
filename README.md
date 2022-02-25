@@ -14,10 +14,9 @@
     <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
   </a>
 </p>
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
 
 > CLI that generates beautiful README.md files.
-
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
 
 <p align="center">
   <img src="getx_state.png" alt="getx state management" title="Screenshot">
