@@ -24,24 +24,18 @@
 </p>
 <br>
 
----
-![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
----
-
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
 ### ✨ [Demo](https://readloud.github.io/osx)
 
 ## Getting Started
 
-This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on development, and a full reference.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
+---
 
 ## 👤 Author
 
