@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to READLOUD®️</h1>
+<h1 align="center">👋 Welcome to ®️EADLOUD</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://mansz81.github.io/" target="_blank">
@@ -41,7 +41,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ## 👤 Author
 
-**📖📢 READ LOUD**
+**READ LOUD**
 
 * Website: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
