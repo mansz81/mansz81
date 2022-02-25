@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 <p align="center">
-  <img src="https://github.com/readloud/readloud.github.io/raw/main/src/assets/img/favicon.png" alt="getx state management" title="Screenshot">
+  <img src="https://github.com/readloud/readloud.github.io/raw/main/src/assets/img/favicon.png" alt="getx state management" title="Screenshot" height="80px"  width="80" >
 </p>
-
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) 
 <a href="https://twitter.com/mansz81" target="_blank">
 <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
@@ -46,7 +45,7 @@ This project is a starting point for [online documentation](https://flutter.dev/
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/readloud/readloud/blob/master/CONTRIBUTING.md).
 
 ## 🥰 Support
 
