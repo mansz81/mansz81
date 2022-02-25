@@ -68,11 +68,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 <a href="https://www.patreon.com/mansz81">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"  height="20px"  width="160" alt="patreon">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"  height="60px"  width="160" alt="patreon">
 </a>
 
 If you like my work, support me to create more! 😎👍<br>
-<a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20px"  width="160"  alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px"  width="160"  alt="Buy Me A Coffee"></a>
 
 ## 📝 License
 
