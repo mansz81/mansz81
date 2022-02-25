@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to READLOUD 👋</h1>
+<h1 align="center">👋 Welcome to READLOUD®️</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://mansz81.github.io/" target="_blank">
@@ -39,13 +39,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## Install
-
-You can also [fork](https://github.com/kefranabg/readme-md-generator/fork) or take a look at the [Installation guide](https://github.com/kefranabg/readme-md-generator/blob/master/INSTALL.md)
-
 ## 👤 Author
 
-**READ LOUD**
+**📖📢 READ LOUD**
 
 * Website: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
@@ -67,10 +63,12 @@ Give a ⭐️ if this project helped you!
 If you like my work, support me to create more! 😎👍<br>
 <a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px"  width="80"  alt="Buy Me A Coffee"></a>
 
+You can also [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/readloud/readloud/blob/master/INSTALL.md)
+
 ## 📝 License
 
 Copyright © 2022 [readloud](https://github.com/readloud).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
