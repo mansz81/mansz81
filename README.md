@@ -26,7 +26,7 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) <br>
 
 ### 🏠 [Homepage](https://readloud.github.io/)
-
+### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
 ### ✨ [Demo](https://readloud.github.io/osx)
 
 ## Getting Started
