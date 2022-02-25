@@ -13,14 +13,8 @@
 <a href="https://twitter.com/mansz81" target="_blank">
 <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
 </a>
-<a href="https://github.com/readloud" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
-</a>
 <a href="https://discord.com/invite/nWFnTqP" target="_blank">
 <img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
-</a>
-<a href="https://www.paypal.me/readloud" target="_blank">
-<img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/> 
 </a>
 </p>
 <br>
@@ -67,13 +61,15 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## 🥰 Support
 
 Give a ⭐️ if this project helped you!
-
 <a href="https://www.patreon.com/mansz81">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"  height="30px"  width="80" alt="patreon">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"  height="30px"  width="80" alt="patreon">
 </a>
-
+</br>
 If you like my work, support me to create more! 😎👍<br>
 <a href="https://www.buymeacoffee.com/forever812S" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30px"  width="80"  alt="Buy Me A Coffee"></a>
+</br>
+<a href="https://www.paypal.me/readloud" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="30px"  width="80" alt="PayPal"/> 
+</a>
 
 You can also [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/readloud/readloud/blob/master/INSTALL.md)
 
