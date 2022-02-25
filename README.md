@@ -4,7 +4,12 @@
 </p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/-FAiH638BHo?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/-FAiH638BHo?label=Likes&style=social) 
-<br>
+<a href="https://twitter.com/mansz81" target="_blank">
+<img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
+</a>
+<a href="https://discord.com/invite/nWFnTqP" target="_blank">
+<img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
+</a>
 
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
@@ -25,8 +30,8 @@ This project is a starting point for [online documentation](https://flutter.dev/
 <img alt="License: MIT" src="https://img.shields.io/github/license/mansz81/mansz81" />
 </a>
 </p>
-<br>
-</br>
+
+
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
