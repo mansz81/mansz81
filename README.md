@@ -13,8 +13,9 @@
   <a href="https://twitter.com/mansz81" target="_blank">
     <img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
   </a>
+  <a href="https://discord.com/invite/nWFnTqP" target="_blank">
+    <img alt="Twitter: mansz81" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social" />
 </p>
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
 
 > CLI that generates beautiful README.md files.
 
