@@ -5,7 +5,7 @@
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?style=social)](https://img.shields.io/twitter/follow/mansz81.svg?style=social)(https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white?style=social)(https://img.shields.io/twitter/follow/mansz81.svg?style=social)(https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
 ![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 <br />
   
