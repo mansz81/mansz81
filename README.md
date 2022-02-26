@@ -64,8 +64,7 @@ You can also [fork](https://github.com/readloud/readloud/fork) or take a look at
 
 ## 📝 License
 
-Copyright © 2022 [readloud](https://github.com/readloud).<br />
-This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed.
+Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
