@@ -4,9 +4,6 @@
 <p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
-[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 <br />
   
 ### 🏠 [Homepage](https://readloud.github.io/)
@@ -23,7 +20,10 @@ This project is a starting point for [online documentation](https://github.com/o
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
-
+[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
+[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
+  
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/readloud/readloud/blob/master/CONTRIBUTING.md).
