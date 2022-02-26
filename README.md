@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 <!-- LOGO -->
-<br />
-<p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
+[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
+[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 
-<br />
-  
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### ✨ [Simple Modal](https://readloud.github.io/osx)
 ### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
@@ -14,11 +13,8 @@
 ## Getting Started
 
 This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
-  
-[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 
+[![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
   
 ## 👤 READ LOUD
 
