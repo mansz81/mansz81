@@ -2,7 +2,7 @@
 <!-- LOGO -->
 <br />
 <p align="center">
-<img src="https://readloud.github.io/src/assets/img/logo.png" alt="logo" width:"60" height:"80">
+<img src="https://readloud.github.io/src/assets/img/logo.png" alt="logo" height="80px"  width="80">
 <br />
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
