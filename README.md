@@ -5,7 +5,7 @@
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
 <a href="https://twitter.com/mansz81" target="_blank">
-<img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/nullbyte.svg?style=social" />
+<img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
 </a>
 <a href="https://discord.com/invite/nWFnTqP" target="_blank">
 <img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
