@@ -4,14 +4,9 @@
 <p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
-<p align="center">
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-<a href="https://twitter.com/mansz81" target="_blank">
-<img alt="Twitter: mansz81" src="https://img.shields.io/twitter/follow/mansz81.svg?style=social" />
-</a>
-<a href="https://discord.com/invite/nWFnTqP" target="_blank">
-<img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
-</a>
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)[(https://img.shields.io/twitter/follow/mansz81.svg?style=social)][https://img.shields.io/twitter/follow/mansz81.svg?style=social](https://twitter.com/mansz81)
+![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)](https://discord.com/invite/nWFnTqP)
 <br />
   
 ### 🏠 [Homepage](https://readloud.github.io/)
