@@ -2,7 +2,7 @@
 <!-- LOGO -->
 <br />
 <p align="center">
-<img src="https://cdn.dribbble.com/users/460298/screenshots/3471002/media/5e8682904bbe0b80864a07fd391879b1.gif">
+<img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 <br />
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
