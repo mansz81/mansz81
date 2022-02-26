@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
-<p align="center">
-  <img src="https://github.com/readloud/readloud.github.io/raw/main/src/assets/img/favicon.png" alt="getx state management" title="Screenshot" height="100px"  width="120">
-</p>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
 <a href="https://twitter.com/mansz81" target="_blank">
