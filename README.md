@@ -18,19 +18,6 @@
 ## Getting Started
 
 This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on development, and a full reference.
-<p>
-<img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000"/>
-<a href="https://mansz81.github.io/" target="_blank">
-<img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-</a>
-<a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-</a>
-<a href="https://github.com/readloud/readloud/blob/master/LICENSE" target="_blank">
-<img alt="License: MIT" src="https://img.shields.io/github/license/mansz81/mansz81" />
-</a>
-</p>
-
 
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
