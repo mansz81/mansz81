@@ -24,13 +24,10 @@ This project is a starting point for [online documentation](https://github.com/o
 
 [![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
   
-## 👤 READ LOUD
+## 🏆 READ LOUD
 
-* Twitter: [@mansz81](https://twitter.com/mansz81)
-* Github: [@readloud](https://github.com/readloud)
-* LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
-  
-* ![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
+
   
 ## 🤝 Contributing
 
