@@ -30,6 +30,7 @@ This project is a starting point for [online documentation](https://github.com/o
 * Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
   
+* [Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
   
 ## 🤝 Contributing
 
