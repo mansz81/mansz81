@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### ✨ [Simple Modal](https://readloud.github.io/osx)
-### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
+### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
 
 
 ## Getting Started
