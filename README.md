@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
-<!-- LOGO -->
-<img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
-
 [![CodeQL](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml)
 [![Forks](https://img.shields.io/github/forks/readloud/readloud.github.io.svg)](https://github.com/readloud/readloud.github.io/network/members)
 [![Stargazers](https://img.shields.io/github/stars/readloud/readloud.github.io.svg)](https://https://github.com/readloud/readloud.github.io/stargazers)
@@ -12,6 +9,8 @@
 ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
 [![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
+
+<img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### ✨ [Simple Modal](https://readloud.github.io/osx)
