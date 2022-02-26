@@ -1,4 +1,9 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
+<!-- LOGO -->
+<br />
+<p align="center">
+<img src="readloud.github.io/src/assets/img/favicon.png" alt="logo" style="max-width: 50%;">
+<br />
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
 <a href="https://twitter.com/mansz81" target="_blank">
@@ -17,11 +22,6 @@
 
 This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
 
----
-![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
----
-
 ## 👤 READ LOUD
 
 * Twitter: [@mansz81](https://twitter.com/mansz81)
@@ -31,6 +31,11 @@ This project is a starting point for [online documentation](https://github.com/o
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/readloud/readloud/blob/master/CONTRIBUTING.md).
+
+---
+![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
+---
 
 ## 🥰 Support
 
