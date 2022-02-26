@@ -9,12 +9,13 @@
 </a>
 
 ### 🏠 [Homepage](https://readloud.github.io/)
+### ✨ [Simple Modal](https://readloud.github.io/osx)
 ### 💱 [FaucetMonitor](https://readloud.github.io/faucetmonitor/)
-### ✨ [Demo](https://readloud.github.io/osx)
+
 
 ## Getting Started
 
-This project is a starting point for [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on development, and a full reference.
+This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
 
 ---
 ![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)
@@ -23,7 +24,6 @@ This project is a starting point for [online documentation](https://flutter.dev/
 
 ## 👤 READ LOUD
 
-* Organization: [oneplus-x](https://github.com/oneplus-x)
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
