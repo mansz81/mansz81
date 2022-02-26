@@ -14,15 +14,18 @@
 ## Getting Started
 
 This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
+  
+[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
+[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
+[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 
+  
 ## 👤 READ LOUD
 
 * Twitter: [@mansz81](https://twitter.com/mansz81)
 * Github: [@readloud](https://github.com/readloud)
 * LinkedIn: [@mansz81](https://linkedin.com/in/mansz81)
-[![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
+  
   
 ## 🤝 Contributing
 
