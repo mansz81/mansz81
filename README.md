@@ -2,7 +2,7 @@
 <!-- LOGO -->
 <br />
 <p align="center">
-<img src="https://photos.app.goo.gl/SbcEeLhjXt2tPWxs5">
+<img src="https://photos.google.com/album/AF1QipNWXlUuATahrwZPuaV7QRtY73AKQHLa5QUsXx0N/photo/AF1QipNRFW8YwrNywMeRk_SQOmyvRfcA7X7dDz61RHh3">
 <br />
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
