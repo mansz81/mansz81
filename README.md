@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 <!-- LOGO -->
 <br />
-<p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 <br />
 
