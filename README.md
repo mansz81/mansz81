@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 <!-- LOGO -->
 <br />
+<p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
-<br />
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
 <a href="https://twitter.com/mansz81" target="_blank">
@@ -11,7 +11,8 @@
 <a href="https://discord.com/invite/nWFnTqP" target="_blank">
 <img alt="Discord-Invite" src="https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social"/>
 </a>
-
+<br />
+  
 ### 🏠 [Homepage](https://readloud.github.io/)
 ### ✨ [Simple Modal](https://readloud.github.io/osx)
 ### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
