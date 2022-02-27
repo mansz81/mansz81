@@ -37,7 +37,7 @@ This project is a starting point for [online documentation](https://github.com/o
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oneplus-x&layout=compact&langs_count=6&theme=radical)
 ---
 
 ## 🥰 Support
