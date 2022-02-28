@@ -17,8 +17,8 @@
 
 ## Demo
 
-### ✨ [SimpleModal OSX Style Dialog](https://readloud.github.io/simplemodal-osx-style-dialog)
-### 👌 [SimpleModal Dynamic Photo Grid](https://readloud.github.io/SimpleModal-Dynamic-Photo-Grid)
+### ✨ [SimpleModal OSX Style Dialog Photo ZOOM](https://readloud.github.io/SimpleModal-OSX-Style-Dialog)
+### 👌 [SimpleModal OSX Style Dialog Dynamic Photo GRID](https://readloud.github.io/SimpleModal-Dynamic-Photo-Grid)
 ### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
 
 
