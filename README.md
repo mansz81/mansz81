@@ -15,8 +15,9 @@
 
 ### 🏠 [Homepage](https://readloud.github.io/)
 
-### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
+### 🔊 [Speech Synthesis](https://readloud.github.io/texttospeech)
 
+### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
 
 ## Getting Started
 
