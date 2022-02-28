@@ -17,7 +17,8 @@
 
 ## Demo
 
-### ✨ [Simple Modal](https://readloud.github.io/osx)
+### ✨ [Simple Modal](https://readloud.github.io/simple-modal)
+### 👌 [Simple Modal Dynamic Photo Grid](https://readloud.github.io/SimpleModal-Dynamic-Photo-Grid)
 ### 💱 [Faucet Monitor](https://readloud.github.io/faucetmonitor/)
 
 
