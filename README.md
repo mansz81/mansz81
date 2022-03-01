@@ -2,8 +2,6 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCgTNupxATBfWmfehv21ym-g?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgTNupxATBfWmfehv21ym-g?style=social)
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)
 ![YouTube Video Comments](https://img.shields.io/youtube/comments/e2icQFxhp3w?style=social)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social)
