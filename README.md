@@ -18,11 +18,11 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://readloud.github.io/texttospeech/">🔊 Speech Synthesis</a></li>
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
-  </ol>
+  </ul>
 </details>
 
 
