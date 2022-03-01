@@ -17,7 +17,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Demo</summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://readloud.github.io/texttospeech/">🔊 Speech Synthesis</a></li>
