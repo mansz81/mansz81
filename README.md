@@ -1,6 +1,10 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
 [![CodeQL](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml)
+[![Travis-ci](https://api.travis-ci.org/printempw/blessing-skin-server.svg)](https://travis-ci.org/printempw/blessing-skin-server)
+[![Codecov](https://codecov.io/gh/printempw/blessing-skin-server/branch/master/graph/badge.svg)](https://codecov.io/gh/printempw/blessing-skin-server)
+[![PHP-5.5.9+](https://img.shields.io/badge/PHP-8.1.0+-orange.svg)](https://poser.pugx.org/printempw/blessing-skin-server/license)
+[![Blessing](https://img.shields.io/badge/blessing-skin-server.svg)](https://github.com/printempw/blessing-skin-server/releases)
 [![Forks](https://img.shields.io/github/forks/readloud/readloud.github.io.svg)](https://github.com/readloud/readloud.github.io/network/members)
 [![Stargazers](https://img.shields.io/github/stars/readloud/readloud.github.io.svg)](https://https://github.com/readloud/readloud.github.io/stargazers)
 [![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
@@ -14,10 +18,7 @@
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
-[![Travis-ci](https://api.travis-ci.org/printempw/blessing-skin-server.svg)](https://travis-ci.org/printempw/blessing-skin-server)
-[![Codecov](https://codecov.io/gh/printempw/blessing-skin-server/branch/master/graph/badge.svg)](https://codecov.io/gh/printempw/blessing-skin-server)
-[![PHP-5.5.9+](https://img.shields.io/badge/PHP-8.1.0+-orange.svg)](https://poser.pugx.org/printempw/blessing-skin-server/license)
-[![Blessing](https://img.shields.io/badge/blessing-skin-server.svg)](https://github.com/printempw/blessing-skin-server/releases)
+
 
 
 <!-- TABLE OF CONTENTS -->
