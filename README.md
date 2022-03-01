@@ -2,7 +2,7 @@
 
 [![CodeQL](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml)
 [![Travis-ci](https://api.travis-ci.org/readloud/blessing-skin-server.svg)](https://travis-ci.org/readloud/readloud.github.io)
-[![Codecov](https://codecov.io/gh/printempw/blessing-skin-server/branch/master/graph/badge.svg)](https://codecov.io/gh/printempw/blessing-skin-server)
+[![Codecov](https://codecov.io/gh/readloud/readloud.github.io/branch/master/graph/badge.svg)](https://codecov.io/gh/readloud/readloud.github.io)
 [![PHP-5.5.9+](https://img.shields.io/badge/PHP-8.1.0+-orange.svg)](https://poser.pugx.org/printempw/blessing-skin-server/license)
 [![Blessing](https://img.shields.io/badge/blessing-skin-server.svg)](https://github.com/readloud/readloud.github.io/releases)
 [![Forks](https://img.shields.io/github/forks/readloud/readloud.github.io.svg)](https://github.com/readloud/readloud.github.io/network/members)
