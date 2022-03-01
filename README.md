@@ -14,6 +14,7 @@
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -21,9 +22,9 @@
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://readloud.github.io/texttospeech/">🔊 Speech Synthesis</a></li>
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
-    <li><a href="#layanan-pelanggan">Layanan Pelanggan</a></li>
   </ol>
 </details>
+
 
 ## Getting Started
 
