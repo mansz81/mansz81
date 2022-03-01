@@ -14,6 +14,10 @@
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
+[![Travis-ci](https://travis-ci.org/printempw/blessing-skin-server")](https://api.travis-ci.org/printempw/blessing-skin-server.svg?branch=master)
+[![Codecov](https://codecov.io/gh/printempw/blessing-skin-server)](https://codecov.io/gh/printempw/blessing-skin-server/branch/master/graph/badge.svg)
+[![Blessing](https://github.com/printempw/blessing-skin-server/releases](https://poser.pugx.org/printempw/blessing-skin-server/version)
+[![PHP-5.5.9+](https://img.shields.io/badge/PHP-5.5.9+-orange.svg)](https://poser.pugx.org/printempw/blessing-skin-server/license)
 
 <!-- TABLE OF CONTENTS -->
 <details>
