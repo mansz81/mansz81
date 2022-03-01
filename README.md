@@ -1,16 +1,5 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
-[![Forks](https://img.shields.io/github/forks/readloud/readloud.github.io.svg)](https://github.com/readloud/readloud.github.io/network/members)
-[![Stargazers](https://img.shields.io/github/stars/readloud/readloud.github.io.svg)](https://https://github.com/readloud/readloud.github.io/stargazers)
-[![CodeQL](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/readloud/readloud.github.io/actions/workflows/codeql-analysis.yml)
-[![pages-build-deployment](https://github.com/readloud/readloud.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/readloud/readloud.github.io/actions/workflows/pages/pages-build-deployment)
-[![Codecov](https://codecov.io/gh/readloud/readloud.github.io/branch/master/graph/badge.svg)](https://codecov.io/gh/readloud/readloud.github.io)
-[![PHP-5.5.9+](https://img.shields.io/badge/PHP-5.5.9+-orange.svg)](https://github.com/readloud/readloud.github.io)
-[![PHP-7.1.4+](https://img.shields.io/badge/PHP-7.1.4+-green.svg)](https://github.com/readloud/readloud.github.io)
-[![PHP-8.1.0+](https://img.shields.io/badge/PHP-8.1.0+-blue.svg)](https://github.com/readloud/readloud.github.io)
-[![GitHub issues by-label](https://img.shields.io/github/issues/badges/shields/good%20first%20issue.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-[![Issues](https://img.shields.io/github/issues/readloud/readloud.github.io.svg)](https://https://github.com/readloud/readloud.github.io/issues)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/readloud/readloud.github.io/blob/main/LICENSE.md)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)
