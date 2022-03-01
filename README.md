@@ -7,8 +7,9 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)
 ![YouTube Video Comments](https://img.shields.io/youtube/comments/e2icQFxhp3w?style=social)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social)
-[![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/mansz81)
-[![Facebook](https://img.shields.io/badge/facebook-friend-orange.svg)](https://www.facebook.com/anonymansz)
+[![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
+[![Facebook](https://img.shields.io/badge/facebook-likes-blue.svg)](https://facebook.com/anonymansz)
+[![Facebook](https://img.shields.io/badge/facebook-friend-orange.svg)](https://facebook.com/mansz81)
 [![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
