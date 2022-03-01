@@ -16,8 +16,9 @@
 
 [![Travis-ci](https://api.travis-ci.org/printempw/blessing-skin-server.svg)](https://travis-ci.org/printempw/blessing-skin-server)
 [![Codecov](https://codecov.io/gh/printempw/blessing-skin-server/branch/master/graph/badge.svg)](https://codecov.io/gh/printempw/blessing-skin-server)
-[![Blessing](https://github.com/printempw/blessing-skin-server/releases](https://img.shields.io/badge/blessing-skin-server.svg)
 [![PHP-5.5.9+](https://img.shields.io/badge/PHP-8.1.0+-orange.svg)](https://poser.pugx.org/printempw/blessing-skin-server/license)
+[![Blessing](https://img.shields.io/badge/blessing-skin-server.svg)](https://github.com/printempw/blessing-skin-server/releases)
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
