@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 ![YouTube Video Views](https://img.shields.io/youtube/views/e2icQFxhp3w?style=social)
 ![YouTube Video Votes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social) 
-[![Facebook](https://img.shields.io/facebook/follow/mansz81.svg?style=social)](https://facebook.com/mansz81)
+[![Facebook](https://img.shields.io/facebook/pages/mansz81.svg?style=social)](https://facebook.com/mansz81)
 [![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
