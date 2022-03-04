@@ -45,7 +45,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 ---
-![](https://github-profile-trophy.vercel.app/?username=readloud&theme=dracula&title=Commits,Followers,Repositories&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3)
 
 ![](https://github-profile-trophy.vercel.app/?username=readloud&theme=dracula&title=MultiLanguage,Stars,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4)
 
