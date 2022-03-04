@@ -42,10 +42,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 ---
 
-![](https://github.com/readloud/readloud/blob/output/yearly-contributions)
-
-![](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd)
-
 ## 🥰 Support
 
 Give a ⭐️ if this project helped you! and If you like my work, support me to create more! 😎👍<br>
