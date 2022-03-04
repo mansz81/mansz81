@@ -13,9 +13,6 @@
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Demo</summary>
@@ -25,7 +22,6 @@
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
   </ul>
 </details>
-
 
 ## Getting Started
 
@@ -46,7 +42,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
 ---
 
-![](https://github.com/readloud/readloud/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/readloud/readloud/blob/output/yearly-contributions)
 
 ![](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd)
 
