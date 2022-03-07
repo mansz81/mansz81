@@ -6,7 +6,7 @@
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
-[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-orange.svg?style=social)](https://instagram.com/mansz81)
+[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?style=social)](https://instagram.com/mansz81)
 [![Pinterest](https://img.shields.io/badge/pinterest-pin-red.svg?style=social)](https://pinterest.com/mansz81)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
