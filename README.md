@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-readloud&color=red&label=PROFILE+VIEWS&style=social)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 ![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/readloud/readloud.github.io/1?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/readloud?label=Follow)
 ![GitHub Forks](https://img.shields.io/github/forks/readloud/readloud?label=Fork)
@@ -16,7 +15,8 @@
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
-[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?style=social)](https://instagram.com/mansz81)
+[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?style=social)](https://www.instagram.com/mansz81/followers/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
