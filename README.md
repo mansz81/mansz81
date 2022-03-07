@@ -3,7 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=your-github-readloud&color=red&label=PROFILE+VIEWS&style=social)
 [![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
 [![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg)](https://facebook.com/mansz81)
-[![Facebook](https://img.shields.io/badge/twitter-brightgreen.svg)](https://facebook.com/mansz81)
+![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
+[![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io?style=social)](https://twitter.com/mansz81)
+[![Twitter Follow](https://img.shields.io/twitter/follow/readloud?label=Follow)](https://twitter.com/mansz81)
+[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-orange.svg?style=social)](https://instagram.com/mansz81)
+[![Pinterest](https://img.shields.io/badge/pinterest-pin-red.svg?style=social)](https://pinterest.com/mansz81)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
