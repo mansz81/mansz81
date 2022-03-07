@@ -1,13 +1,6 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
 ![](https://komarev.com/ghpvc/?username=your-github-readloud&color=red&label=PROFILE+VIEWS&style=social)
-[![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
-[![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg)](https://facebook.com/mansz81)
-![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
-[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?style=social)](https://instagram.com/mansz81)
-[![Shields](https://img.shields.io/badge/pinterest-pin-red.svg?style=social)](https://shields.io/category/build)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 ![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/readloud/readloud.github.io/1?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/readloud?label=Follow)
@@ -18,6 +11,12 @@
 ![GitHub Watchers](https://img.shields.io/github/watchers/oneplus-x/phpsploit?label=Watch)
 [![prouser123](https://img.shields.io/badge/prouser123.me-misc-green)](https://prouser123.me/misc/mastodon-userid-lookup.html)
 [![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale)](https://shields.io/category/build)
+[![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
+[![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg)](https://facebook.com/mansz81)
+![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
+[![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?style=social)](https://instagram.com/mansz81)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 
