@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
+[![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
 [![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
