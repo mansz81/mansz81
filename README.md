@@ -2,10 +2,6 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 [![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white?style=social)](https://discord.com/invite/nWFnTqP)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgTNupxATBfWmfehv21ym-g?style=social)](https://youtube.com/channel/subscribers/UCgTNupxATBfWmfehv21ym-g)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgTNupxATBfWmfehv21ym-g?style=social)](https://youtube.com/channel/subscribers/UCgTNupxATBfWmfehv21ym-g)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/e2icQFxhp3w?style=social)
-![YouTube Video Likes](https://img.shields.io/youtube/likes/e2icQFxhp3w?label=Likes&style=social)
 [![Facebook](https://img.shields.io/badge/facebook-page-blue.svg)](https://facebook.com/anonymansz)
 [![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg)](https://facebook.com/mansz81)
 [![Twitter](https://img.shields.io/twitter/follow/mansz81.svg?style=social)](https://twitter.com/mansz81)
