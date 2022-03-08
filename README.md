@@ -25,7 +25,7 @@
   <summary>Demo</summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
-    <li><a href="https://readloud.github.io/TextToSpeech/">🔊 Speech Synthesis</a></li>
+    <li><a href="https://github.com/readloud/readloud/wiki/">🔊 Wiki</a></li>
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
   </ul>
 </details>
