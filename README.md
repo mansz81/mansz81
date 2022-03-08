@@ -22,7 +22,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Demo</summary>
+  <summary>Bookmarks</summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://github.com/readloud/readloud/wiki/">🔊 Wiki</a></li>
