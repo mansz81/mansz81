@@ -8,7 +8,7 @@
 ![GitHub Repo Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=social)
 ![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/readloud/SecLists/1?style=social)
-[![prouser123](https://img.shields.io/badge/prouser123.me-misc-green)](https://prouser123.me/misc/mastodon-userid-lookup.html)
+![prouser123](https://img.shields.io/badge/prouser123.me-misc-green?url=https://prouser123.me/misc/mastodon-userid-lookup.html)
 ![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale?url=https://shields.io/category/build)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 ![Facebook](https://img.shields.io/badge/facebook-page-blue.svg?url=https://facebook.com/anonymansz)
