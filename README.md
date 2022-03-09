@@ -15,7 +15,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg)](https://facebook.com/mansz81)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
-![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-red.svg?url=https%3A%2F%2Finstagram.com/mansz81/followers/?style=social)
+![Instagram Folowers](https://img.shields.io/badge/instagram-folowers-blue.svg?url=https%3A%2F%2Finstagram.com/mansz81/followers/?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
