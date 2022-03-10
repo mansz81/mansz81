@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-readloud&color=red&label=PROFILE+VIEWS&style=social)
+![](https://komarev.com/ghpvc/?username=readloud&color=red&label=PROFILE+VIEWS&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/readloud?label=Follow)
 ![GitHub User's stars](https://img.shields.io/github/stars/readloud?affiliations=OWNER%2CCOLLABORATOR)
 ![GitHub Forks](https://img.shields.io/github/forks/danielmiessler/SecLists?label=Fork)
