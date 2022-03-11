@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to READLOUD 👋</h1>
+<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=your-github-readloud&color=red&label=PROFILE+VIEWS&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/readloud?label=Follow)
@@ -18,6 +19,7 @@
 ![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale?url=https://shields.io/category/build)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
+</p>
 <p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 </p>
