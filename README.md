@@ -14,8 +14,13 @@
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
+![prouser123](https://img.shields.io/badge/prouser123.me-misc-green?url=https://prouser123.me/misc/mastodon-userid-lookup.html)
+![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale?url=https://shields.io/category/build)
+![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
+<p align="center">
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -55,10 +60,6 @@ Give a ⭐️ if this project helped you! and If you like my work, support me to
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mansz81)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/forever812S)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/readloud)
-
-![prouser123](https://img.shields.io/badge/prouser123.me-misc-green?url=https://prouser123.me/misc/mastodon-userid-lookup.html)
-![Shield.io](https://img.shields.io/badge/shield.io-build-orang.svg?style=sociale?url=https://shields.io/category/build)
-![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
 You can also 
 [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/git-guides/install-git) for each repository.
