@@ -29,7 +29,7 @@
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
-    <li><a href="https://github.com/readloud/Art-Of-Hacking-Series">🔖 Cheatsheets</a></li>
+    <li><a href="https://github.com/readloud/h4cker.git">🔖 Cheatsheets</a></li>
     <li><a href="https://github.com/readloud/Personal-Documentation">📄 Documentation</a></li>
     <li><a href="https://github.com/readloud/readloud/wiki/">🔊 Wiki</a></li>
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
