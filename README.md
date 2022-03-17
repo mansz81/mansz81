@@ -23,7 +23,7 @@
 <img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 </div>
 
-![yt](embed url=https://www.youtube.com/watch?v=fE-gKiEzwVA)
+[![yt](embed url=https://www.youtube.com/watch?v=fE-gKiEzwVA)
 
 <!-- TABLE OF CONTENTS -->
 <details>
