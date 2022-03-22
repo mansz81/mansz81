@@ -69,8 +69,6 @@ You can also
 
 ## 📝 License
 
-Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed.
+Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed. 💡<strong class="color-fg-default">ProTip!</strong>Mix and match filters to narrow down what you’re looking for.
 
 ***
-
-💡<strong class="color-fg-default">ProTip!</strong>Mix and match filters to narrow down what you’re looking for.
