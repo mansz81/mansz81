@@ -20,7 +20,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
-<img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif" width="100%">
+<img src="https://www.photofunky.net/output/image/b/d/b/3/bdb3e7/photofunky.gif">
 </div>
 
 <!-- TABLE OF CONTENTS -->
