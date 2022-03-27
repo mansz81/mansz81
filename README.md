@@ -51,9 +51,7 @@ This project is a starting point for [online documentation](https://github.com/o
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
----
 ![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
----
 
 ## 🥰 Support
 
@@ -65,7 +63,6 @@ Give a ⭐️ if this project helped you! and If you like my work, support me to
 
 You can also 
 [fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/git-guides/install-git) for each repository.
-
 
 ## 📝 License
 
