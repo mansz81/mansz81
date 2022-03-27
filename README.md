@@ -42,13 +42,14 @@
 This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
 
 <div align="center">
-  <a href="https://github.com/readloud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
 ## 🤝 Contributing
+  
+Contributions, issues and feature requests are welcome!. Feel free to check [issues page](https://github.com/readloud/readloud/issues) 
+You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
 
