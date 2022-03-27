@@ -47,7 +47,7 @@ This project is a starting point for [online documentation](https://github.com/o
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-## 🏆 READ LOUD 🤝 Contributing
+## 🏆 Contributing 🤝
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
