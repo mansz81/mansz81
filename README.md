@@ -49,7 +49,7 @@ This project is a starting point for [online documentation](https://github.com/o
   
 ## 🏆 Contributing 🤝
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
+Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
 
