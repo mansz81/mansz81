@@ -43,6 +43,12 @@ This project is a starting point for [online documentation](https://github.com/o
 
 [![ReadLoud GitHub stats](https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=6&theme=radical)
   
+<div align="center">
+  <a href="https://github.com/readloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
 ## 🏆 READ LOUD
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true)
