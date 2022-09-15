@@ -1,0 +1,16 @@
+
+.container {
+  max-width: initial !important;
+  min-width: initial !important;
+  width: 100% !important;
+}
+
+.card {
+  margin: 0 !important;
+}
+
+.cardHeader {
+  font-weight: 700;
+  padding: 0 10px;
+  font-size: 1.2em;
+}
