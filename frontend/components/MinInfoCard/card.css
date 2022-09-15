@@ -1,0 +1,23 @@
+@import 'open-color/open-color.css';
+
+.subText.subText {
+  font-size: 12px;
+  text-align: left;
+  color: var(--oc-gray-5);
+  margin-bottom: 3px;
+}
+
+.mainText.mainText {
+  font-size: 1.7em;
+  color: var(--oc-gray-7);
+  text-align: left;
+
+  & i {
+    font-size: 0.9em;
+    color: var(--oc-gray-5);
+  }
+}
+
+.cardBg {
+  background-color: var(--oc-white);
+}

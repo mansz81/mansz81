@@ -1,0 +1,56 @@
+@import 'open-color/open-color.css';
+
+:root {
+  --speed: .2s;
+  --easing: cubic-bezier(.55,0,.1,1);
+  --modalContentOpacity: 0;
+  --scale: scale(0.8);
+  --scaleActive: scale(1);
+}
+
+.container {
+  position: relative;
+  z-index: var(--zIndex9);
+}
+
+.menu {
+  position: absolute;
+  box-shadow: var(--shadow4);
+  border-radius: 2px;
+  background-color: var(--oc-white);
+  top: 100%;
+  font-size: 12px;
+
+  z-index: var(--zIndex0);
+  opacity: var(--modalContentOpacity);
+  visibility: hidden;
+  backface-visibility: hidden;
+  transform: var(--scale) translateY(10px);
+  transition: all var(--speed) var(--easing);
+}
+
+.menuActive {
+  z-index: var(--zIndex99);
+  visibility: visible;
+  opacity: 1;
+  transform: var(--scaleActive) translateY(10px);
+}
+
+.item {
+  padding: 10px 20px;
+  min-width: 85px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--oc-gray-2);
+  }
+
+  &:not(:last-child) {
+    border-bottom: 1px solid var(--oc-gray-2);
+  }
+
+  & i {
+    margin-right: 7px;
+  }
+}

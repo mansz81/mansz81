@@ -1,0 +1,46 @@
+@import 'open-color/open-color.css';
+
+.container {
+  flex: 1;
+  margin: 0 0 10px;
+  user-select: none;
+}
+
+.tipsContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  margin-top: -20px;
+}
+
+.tipso {
+  width: 60px;
+}
+
+.tips {
+  flex: 1;
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  color: var(--oc-gray-5);
+
+  &:first-child {
+    text-align: left;
+
+    & span {
+      padding-left: 10px;
+    }
+  }
+
+  &:last-child {
+    text-align: right;
+
+    & span {
+      padding-right: 10px;
+    }
+  }
+
+  & span {
+    color: var(--oc-gray-7);
+  }
+}
