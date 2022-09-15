@@ -1,6 +1,0 @@
-@import 'open-color/open-color.css';
-
-.container {
-  position: relative;
-  composes: dashboard_content from 'STYLES/common.css';
-}
