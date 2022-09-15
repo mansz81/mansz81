@@ -1,0 +1,33 @@
+{% extends "layouts/base.html" %}
+
+{% block css %}
+  <link href="{{ assetsPath("assets/resume_desktop.bundle.css") }}" rel="stylesheet" type="text/css">
+  {% if fromDownload %}
+    <style>
+      html, body {
+        background-color: #fff !important;
+      }
+    </style>
+  {% endif %}
+{% endblock %}
+
+{% block body %}
+  <div id="loading">
+    <div class="loading_container">
+      <div class="ball-clip-rotate-multiple">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+  <div id="resume"></div>
+{% endblock %}
+
+{% block js %}
+  <script>
+    window.login = '{{ login }}';
+    window.userId = '{{ userId }}';
+    window.fromDownload = '{{ fromDownload }}';
+  </script>
+  <script async defer src="{{ assetsPath("assets/resume_desktop.bundle.js") }}"></script>
+{% endblock %}

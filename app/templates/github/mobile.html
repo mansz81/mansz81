@@ -1,0 +1,32 @@
+{% extends "layouts/base.html" %}
+
+{% block css %}
+  <link href="{{ assetsPath("assets/github_mobile.bundle.css") }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block body %}
+  <div id="loading">
+    <div class="loading_container">
+      <div class="ball-clip-rotate-multiple">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+  <div class="share">
+    <div id="github"></div>
+  </div>
+  {% if not user.isAdmin %}
+    <a rel="noopener" id="share_banner" class="share_banner" href="/" target="_blank">
+      <i class="fa fa-code" aria-hidden="true"></i>&nbsp;&nbsp;{{ shareText }}
+    </a>
+  {% endif %}
+{% endblock %}
+
+{% block js %}
+  <script>
+    window.isAdmin = '{{ user.isAdmin }}';
+    window.login = '{{ user.login }}';
+  </script>
+  <script async defer src="{{ assetsPath("assets/github_mobile.bundle.js") }}"></script>
+{% endblock %}

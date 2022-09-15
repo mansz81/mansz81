@@ -1,0 +1,19 @@
+{
+  "port": "",
+  "appKey": "",
+  "appName": "hacknical",
+  "links": {
+    "github": "https://github.com/ecmadao/hacknical",
+    "issue": "https://github.com/ecmadao/hacknical/issues",
+    "homePage": "https://github.com/ecmadao/hacknical"
+  },
+  "services": {},
+  "cdn": "",
+  "url": "",
+  "log": {
+    "appender": {
+      "type": "console"
+    },
+    "level": "DEBUG"
+  }
+}

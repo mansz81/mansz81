@@ -1,0 +1,40 @@
+{% extends "layouts/base.html" %}
+
+{% block css %}
+  {% if not user.isAdmin %}
+    <style>
+      #share {
+        padding-bottom: 90px;
+      }
+    </style>
+  {% endif %}
+  <link href="{{ assetsPath("assets/github_desktop.bundle.css") }}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block body %}
+  <div id="loading">
+    <div class="loading_container">
+      <div class="ball-clip-rotate-multiple">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+  <div id="share"></div>
+  {% if not user.isAdmin %}
+    <div id="share_banner" class="share_banner_wrapper">
+      <a class="share_banner" href="/" target="_blank" rel="noopener">
+        <i class="fa fa-code" aria-hidden="true"></i>&nbsp;&nbsp;{{ shareText }}
+      </a>
+    </div>
+  {% endif %}
+{% endblock %}
+
+{% block js %}
+  <script>
+    window.isShare = true;
+    window.login = "{{ user.login }}";
+    window.isAdmin = '{{ user.isAdmin }}';
+  </script>
+  <script async defer src="{{ assetsPath("assets/github_desktop.bundle.js") }}"></script>
+{% endblock %}

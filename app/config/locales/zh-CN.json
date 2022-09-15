@@ -1,0 +1,91 @@
+{
+	"language": {
+		"text": "中文",
+    "id": "zh"
+  },
+	"description": "hacknical - 查看自己的 GitHub 总结，并协助你完善自我简历",
+	"keywords": "GitHub，数据可视化，简历，在线简历",
+	"loginPage": {
+		"title": "hacknical | 更加高效的在线简历"
+	},
+	"404Page": {
+		"title": "hacknical | 没有找到页面",
+    "404": "没有找到页面",
+		"text": "阿西吧！你进入了未知区域",
+		"redirectText": "即将回到首页"
+	},
+	"500Page": {
+		"title": "hacknical | 服务器错误",
+		"text": "阿西吧！服务器貌似挂了..",
+		"redirectText": "休息一会吧~",
+		"500": "服务器错误"
+	},
+	"dashboard": {
+		"title": "hacknical | %s 的个人主页",
+		"about": "关于",
+		"feedback": "反馈",
+		"code": "源码"
+	},
+  "sharePage": {
+    "title": "%s 的 GitHub 总结 | hacknical",
+    "joinAt": "加入于"
+  },
+	"resumePage": {
+    "title": "%s 的个人简历 | hacknical"
+  },
+	"mobilePage": {
+		"setting": "数据更新",
+		"analysis": "分享记录",
+		"menu": {
+      "shareDatas": "数据记录",
+      "githubShare": "GitHub 战绩",
+      "resumeShare": "个人简历",
+      "dataRefresh": "相关设置",
+      "about": "关于",
+      "logout": "退出登录"
+    }
+	},
+	"initialPage": {
+		"title": "初始化 | %s"
+	},
+  "messages": {
+    "error": {
+      "findUser": "查找用户失败",
+      "frequent": "更新过于频繁，请在 %s 分钟后稍后重试",
+      "update": "数据更新失败",
+			"resume": "没有找到简历",
+			"emptyResume": "请先创建简历",
+			"invalidateEmail": "请填写正确的邮箱",
+			"logout": "session 缺失，请登录",
+			"download": "简历下载失败，请稍后重试"
+    },
+		"success": {
+      "save": "储存成功",
+			"update": "数据更新完成",
+			"updateRepos": "个人仓库更新完毕",
+			"updateCommits": "提交信息更新完毕",
+			"updateOrgs": "隶属组织信息更新完毕"
+    },
+    "share": {
+      "text": "想知道自己在致力于哪些编程语言？戳我查看自己的 GitHub 总结",
+      "mobileText": "想知道自己在致力于哪些编程语言？",
+      "toggleOpen": "分享链接已开启",
+      "toggleClose": "分享链接已关闭"
+    },
+		"resume": {
+			"linkGithub": "已开启简历和 GitHub 的关联",
+			"unlinkGithub": "已关闭简历和 GitHub 的关联",
+			"template": "简历模板更改成功",
+			"hireAvailable": "求职状态更新成功",
+			"simplifyUrl": "已开启简化的分享链接",
+			"unSimplifyUrl": "已关闭简化的分享链接"
+		},
+		"update": {
+			"succeed": "数据更新完成",
+			"pending": "数据在后台更新中",
+			"running": "数据在后台更新中",
+			"failed": "GitHub token 过期，请退出后重新登录",
+			"frequently": "更新频繁，请稍后重试"
+		}
+  }
+}
