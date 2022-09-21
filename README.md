@@ -17,7 +17,7 @@
 ![Facebook](https://img.shields.io/badge/facebook-profile-brightgreen.svg?url=https://facebook.com/mansz81)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com/mansz81?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/mansz81?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/anonymansz81?label=Follow)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
 <img src="https://c.tenor.com/tn_LS9uyS6IAAAAC/dark-animegirl.gif">
@@ -48,7 +48,7 @@ This project is a starting point for [online documentation](https://github.com/o
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true"/>
 </div>
 
-## 🤝 Contributing
+## 🤝 Contributing 🤝
   
 Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
 
