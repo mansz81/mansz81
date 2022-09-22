@@ -48,6 +48,16 @@ This project is a starting point for [online documentation](https://github.com/o
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true"/>
 </div>
 
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/readloud/github-stats">
+<img src="https://github.com/readloud/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/readloud/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/readloud/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/readloud/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
 ## 🤝 Contributing 🤝
   
 Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
