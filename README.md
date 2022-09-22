@@ -46,17 +46,14 @@ This project is a starting point for [online documentation](https://github.com/o
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=readloud&no-bg=true"/>
-</div>
-
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/readloud/github-stats">
+  <a href="https://github.com/readloud/github-stats">
 <img src="https://github.com/readloud/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/readloud/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/readloud/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/readloud/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+</div>
+
 
 ## 🤝 Contributing 🤝
   
