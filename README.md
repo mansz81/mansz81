@@ -32,7 +32,7 @@
     <li><a href="https://pastebin.com/u/mansz81">📝 Pastebin</a></li>
     <li><a href="https://github.com/readloud/h4cker.git">🔖 Cheatsheets</a></li>
     <li><a href="https://github.com/readloud/Personal-Documentation">📄 Documentation</a></li>
-    <li><a href="https://github.com/readloud/readloud/wiki/">🔊 Wiki</a></li>
+    <li><a href="https://github.com/readloud/readloud/wiki/">📚 Wiki</a></li>
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
     <li><a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a></li>
   </ul>
