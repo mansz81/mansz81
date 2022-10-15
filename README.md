@@ -9,6 +9,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/readloud?affiliations=OWNER%2CCOLLABORATOR)
 ![GitHub Forks](https://img.shields.io/github/forks/danielmiessler/SecLists?label=Fork)
 ![GitHub Watchers](https://img.shields.io/github/watchers/danielmiessler/SecLists?label=Watch)
+
 ![GitHub Repo Stars](https://img.shields.io/github/stars/danielmiessler/SecLists?style=social)
 ![GitHub Contexts](https://img.shields.io/github/status/contexts/pulls/danielmiessler/SecLists/1?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/danielmiessler/SecLists?style=social)
