@@ -22,6 +22,8 @@
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
 
 <img src="https://c.tenor.com/tn_LS9uyS6IAAAAC/dark-animegirl.gif">
+
+[vercel](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -51,7 +53,6 @@ This project is a starting point for [online documentation](https://github.com/o
   <a href="https://github.com/readloud/github-achievements">
 </div>
 
-[![Patreon](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
     
 ## 🤝 Contributing 🤝
   
