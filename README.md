@@ -29,7 +29,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h1>Getting Started</h1></summary>
+  <summary><h3>Getting Started</h3></summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
