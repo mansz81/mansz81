@@ -20,10 +20,10 @@
 ![Twitch Status](https://img.shields.io/twitch/status/readloud?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/anonymansz81?label=Follow)
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=readloud)
+![vercel](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
 
 <img src="https://c.tenor.com/tn_LS9uyS6IAAAAC/dark-animegirl.gif">
 
-[vercel](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
 </div>
 
 <!-- TABLE OF CONTENTS -->
