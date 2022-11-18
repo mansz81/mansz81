@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://c.tenor.com/tn_LS9uyS6IAAAAC/dark-animegirl.gif">
-
 ![vercel](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
 
 ![prouser123](https://img.shields.io/badge/prouser123.me-misc-green?url=https://prouser123.me/misc/mastodon-userid-lookup.html)
@@ -29,7 +27,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h3>Getting Started</h3></summary>
+  <summary><h2>Getting Started</h2></summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
