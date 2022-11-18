@@ -51,7 +51,8 @@ This project is a starting point for [online documentation](https://github.com/o
   <a href="https://github.com/readloud/github-achievements">
 </div>
 
-
+[![Patreon](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
+    
 ## 🤝 Contributing 🤝
   
 Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
