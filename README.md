@@ -29,7 +29,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Bookmarks</summary>
+  <summary>## Getting Started</summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
@@ -41,8 +41,6 @@
     <li><a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a></li>
   </ul>
 </details>
-
-## Getting Started
 
 This project is a starting point for [online documentation](https://github.com/oneplus-x), which offers tutorials, samples, guidance on development, and a full reference.
 
