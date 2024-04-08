@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to READLOUD 👋</h1>
-
 <div align="center">
 
 ![vercel](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=readloud&theme=tokyonight)
