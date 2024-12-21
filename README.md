@@ -25,7 +25,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h2></h2></summary>
+  <summary><h2>Summary</h2></summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
