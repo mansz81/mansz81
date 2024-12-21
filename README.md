@@ -23,22 +23,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><h2>Summary</h2></summary>
-  <ul>
-    <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
-    <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
-    <li><a href="https://pastebin.com/u/mansz81">📝 Pastebin</a></li>
-    <li><a href="https://github.com/readloud/h4cker.git">🔖 Cheatsheets</a></li>
-    <li><a href="https://github.com/readloud/Personal-Documentation">📄 Documentation</a></li>
-    <li><a href="https://github.com/readloud/readloud/wiki/">📚 Wiki</a></li>
-    <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
-    <li><a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a></li>
-<li><a href="https://github.com/oneplus-x">📴 Old Docentation</a></li>
-    <li><a href="https://github.com/readloud/readloud/wiki">📑 Wiki</a></li>
-  </ul></details>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=readloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readloud&layout=compact&langs_count=7&theme=radical"/>
@@ -67,3 +51,18 @@ You can also
 
 Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed. 💡<strong class="color-fg-default"> [ProTip!](https://docs.github.com/) </strong>Mix and match filters to narrow down what you’re looking for.
 ***
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary><h2>Summary</h2></summary>
+  <ul>
+    <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
+    <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
+    <li><a href="https://pastebin.com/u/mansz81">📝 Pastebin</a></li>
+    <li><a href="https://github.com/readloud/h4cker.git">🔖 Cheatsheets</a></li>
+    <li><a href="https://github.com/readloud/Personal-Documentation">📄 Documentation</a></li>
+    <li><a href="https://github.com/readloud/readloud/wiki/">📚 Wiki</a></li>
+    <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
+    <li><a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a></li>
+<li><a href="https://github.com/oneplus-x">📴 Old Docentation</a></li>
+    <li><a href="https://github.com/readloud/readloud/wiki">📑 Wiki</a></li>
+  </ul></details>
