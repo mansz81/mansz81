@@ -53,7 +53,7 @@ Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT]
 ***
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h2>Summary</h2></summary>
+  <summary><h2>📴 Summary</h2></summary>
   <ul>
     <li><a href="https://readloud.github.io/">🏠 Homepage</a></li>
     <li><a href="https://gist.github.com/readloud">🐙 Gist</a></li>
@@ -64,5 +64,4 @@ Copyright © 2022 [readloud](https://github.com/readloud). This project is [MIT]
     <li><a href="https://readloud.github.io/faucetmonitor/">💱 Faucet Monitor</a></li>
     <li><a href="https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/">💽 Windows 11 Pro for Unsupported Device</a></li>
 <li><a href="https://github.com/oneplus-x">📴 Old Docentation</a></li>
-    <li><a href="https://github.com/readloud/readloud/wiki">📑 Wiki</a></li>
   </ul></details>
