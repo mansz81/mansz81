@@ -31,26 +31,6 @@
   <a href="https://github.com/readloud/github-achievements">
 </div>
 
-    
-## 🤝 Contributing 🤝
-  
-Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
-
-## 🥰 Support
-
-Give a ⭐️ if this project helped you! and If you like my work, support me to create more! 😎👍<br>
-
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mansz81)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/forever812S)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/readloud)
-
-You can also 
-[fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/git-guides/install-git) for each repository.
-
-## 📝 License
-
-Copyright © 2025 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed. 💡<strong class="color-fg-default"> [ProTip!](https://docs.github.com/) </strong>Mix and match filters to narrow down what you’re looking for.
-***
 <!-- TABLE OF CONTENTS -->
 ## 📴 Summary
 [🏠 Homepage](https://readloud.github.io/)
@@ -71,3 +51,22 @@ Copyright © 2025 [readloud](https://github.com/readloud). This project is [MIT]
 
 [📴 Old Documentation](https://github.com/oneplus-x)
 
+## 🤝 Contributing 🤝
+  
+Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/readloud/readloud/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
+
+## 🥰 Support
+
+Give a ⭐️ if this project helped you! and If you like my work, support me to create more! 😎👍<br>
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mansz81)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/forever812S)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/readloud)
+
+You can also 
+[fork](https://github.com/readloud/readloud/fork) or take a look at the [Installation guide](https://github.com/git-guides/install-git) for each repository.
+
+## 📝 License
+
+Copyright © 2025 [readloud](https://github.com/readloud). This project is [MIT](https://github.com/readloud/readloud/blob/master/LICENSE) licensed. 💡<strong class="color-fg-default"> [ProTip!](https://docs.github.com/) </strong>Mix and match filters to narrow down what you’re looking for.
+***
