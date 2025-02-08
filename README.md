@@ -53,13 +53,21 @@ Copyright © 2025 [readloud](https://github.com/readloud). This project is [MIT]
 ***
 <!-- TABLE OF CONTENTS -->
 ## 📴 Summary
-[🏠 Homepage](https://readloud.github.io/) 
-[🐙 Gist](https://gist.github.com/readloud) 
-[📝 Pastebin](https://pastebin.com/u/mansz81) 
-[🔖 Cheatsheets](https://github.com/readloud/h4cker.git) 
-[📄 Documentation](https://github.com/readloud/Personal-Documentation) 
-[📚 Wiki](https://github.com/readloud/readloud/wiki/) 
-[💱 Faucet Monitor](https://readloud.github.io/faucetmonitor/) 
-[💽 Windows 11 Pro for Unsupported Device](https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/) 
-[📴 Old Documentation](https://github.com/oneplus-x) 
+[🏠 Homepage](https://readloud.github.io/)
+
+[🐙 Gist](https://gist.github.com/readloud)
+
+[📝 Pastebin](https://pastebin.com/u/mansz81)
+
+[🔖 Cheatsheets](https://github.com/readloud/h4cker.git)
+
+[📄 Documentation](https://github.com/readloud/Personal-Documentation)
+
+[📚 Wiki](https://github.com/readloud/readloud/wiki/)
+
+[💱 Faucet Monitor](https://readloud.github.io/faucetmonitor/)
+
+[💽 Windows 11 Pro for Unsupported Device](https://mega.nz/folder/fmIDDayC#PSpixqzEr9VbJFy_9QFgLw/)
+
+[📴 Old Documentation](https://github.com/oneplus-x)
 
